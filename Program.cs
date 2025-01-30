@@ -224,6 +224,12 @@ class Jesuita
     {
         double media = 0;
         double somaNotas = 0;
+
+        Console.Write("\n=============== Emissão de Relatório ===================");
+        Console.WriteLine("======================================================");
+        Console.WriteLine("Matricula | Nome | Nota 1 | Nota 2 | Nota 3 | Media");
+        Console.WriteLine("======================================================");
+
     }
 
 }
