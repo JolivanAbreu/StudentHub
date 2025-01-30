@@ -1,0 +1,14 @@
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\bin\Debug\net9.0\Jesuitas.exe
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\bin\Debug\net9.0\Jesuitas.deps.json
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\bin\Debug\net9.0\Jesuitas.runtimeconfig.json
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\bin\Debug\net9.0\Jesuitas.dll
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\bin\Debug\net9.0\Jesuitas.pdb
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.AssemblyInfoInputs.cache
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.AssemblyInfo.cs
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.csproj.CoreCompileInputs.cache
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.dll
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\refint\Jesuitas.dll
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.pdb
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.genruntimeconfig.cache
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\ref\Jesuitas.dll
