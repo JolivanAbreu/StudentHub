@@ -103,13 +103,44 @@ class Jesuita
             return;
         }
 
-        
+        Console.Write("Digite a matricula do aluno: ");
+        int matricula;
+
+        while (!int.TryParse(Console.ReadLine(), out matricula)) {
+            Console.Write("Número de inválido! Digite uma matrícula válida: ");
+        }
+
+        Alunos aluno = listaAlunos.Find(a => a.Matricula == matricula);
+
+        if (aluno == null)
+        {
+            Console.WriteLine("\n�� Matrícula não encontrada.");
+            return;
+        }
+
+        listaAlunos.Remove(aluno);
+        Console.WriteLine("\n�� Aluno removido com sucesso!");
+
     }
 
     private static void BuscarAluno()
     {
         Console.Write("Digite a matricula do aluno: ");
-        
+        int matricula;
+
+        while (!int.TryParse(Console.ReadLine(), out matricula)) {
+            Console.Write("Número de inválido! Digite uma matrícula válida: ");
+        }
+
+        Alunos aluno = listaAlunos.Find(a => a.Matricula == matricula);
+
+        if (aluno == null)
+        {
+            Console.WriteLine("\n�� Matrícula não encontrada.");
+            return;
+        }
+
+        Console.WriteLine($"\nNome: {aluno.Name} \nMatricula: {aluno.Matricula} \nNota 1: {aluno.Nota1} \nNota 2: {aluno.Nota2} \nNota 3: {aluno.Nota3}");
     }
 
     private static void EditarAluno()

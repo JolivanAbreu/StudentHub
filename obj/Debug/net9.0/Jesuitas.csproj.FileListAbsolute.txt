@@ -12,3 +12,4 @@ C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projeto
 C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.pdb
 C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.genruntimeconfig.cache
 C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\ref\Jesuitas.dll
+C:\Users\jolivanat\Documents\03° Minhas informações\03° VS Code\01° Projetos Pessoais\.NET\Jesuitas\obj\Debug\net9.0\Jesuitas.sourcelink.json
